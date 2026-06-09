@@ -76,6 +76,7 @@ on:
           - vllm-orchestrator-gateway
           - workload-variant-autoscaler
           - workbenches-operator
+          - odh-ai-sixth-demo
       pr_target_branch:
         description: 'Target branch for the PR (e.g. main)'
         required: true
