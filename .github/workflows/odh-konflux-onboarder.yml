@@ -79,6 +79,7 @@ on:
           - workbenches-operator
           - odh-ai-sixth-demo
           - odh-ai-fifth-demo
+          - test-comp-alpha
       pr_target_branch:
         description: 'Target branch for the PR (e.g. main)'
         required: true
