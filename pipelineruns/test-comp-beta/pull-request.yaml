@@ -1,0 +1,8 @@
+apiVersion: tekton.dev/v1
+kind: PipelineRun
+metadata:
+  name: test-comp-beta-pull-request
+  namespace: open-data-hub-tenant
+spec:
+  pipelineRef:
+    name: odh-pr
