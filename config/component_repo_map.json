@@ -148,6 +148,12 @@
     "odh-workbench-jupyter-tensorflow-rocm-py312-ci": "opendatahub/odh-workbench-jupyter-tensorflow-rocm-py312-ubi9",
     "odh-workbench-jupyter-trustyai-cpu-py312-ubi9-ci": "opendatahub/odh-workbench-jupyter-trustyai-cpu-py312-ubi9"
   },
+  "odh-ai-fifth-demo": {
+    "odh-dashboard-operator-ci": "opendatahub/odh-dashboard-operator"
+  },
+  "odh-ai-sixth-demo": {
+    "odh-test-comp-odh-ci": "opendatahub/odh-test-comp-odh"
+  },
   "odh-dashboard": {
     "mod-arch-maas": "opendatahub/mod-arch-maas",
     "odh-dashboard-ci": "opendatahub/odh-dashboard",
