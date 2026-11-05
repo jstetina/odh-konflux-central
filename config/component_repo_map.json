@@ -145,10 +145,8 @@
     "odh-workbench-jupyter-minimal-rocm-py312-ubi9-ci": "opendatahub/odh-workbench-jupyter-minimal-rocm-py312-ubi9",
     "odh-workbench-jupyter-pytorch-cuda-py312-ubi9-ci": "opendatahub/odh-workbench-jupyter-pytorch-cuda-py312-ubi9",
     "odh-workbench-jupyter-pytorch-llmcompressor-cuda-ci": "opendatahub/odh-workbench-jupyter-pytorch-llmcompressor-cuda-py312-ubi9",
-    "odh-workbench-jupyter-pytorch-rocm-py312-ubi9-ci": "opendatahub/odh-workbench-jupyter-pytorch-rocm-py312-ubi9",
     "odh-workbench-jupyter-tensorflow-cuda-py312-ubi9-ci": "opendatahub/odh-workbench-jupyter-tensorflow-cuda-py312-ubi9",
-    "odh-workbench-jupyter-tensorflow-rocm-py312-ci": "opendatahub/odh-workbench-jupyter-tensorflow-rocm-py312-ubi9",
-    "odh-workbench-jupyter-trustyai-cpu-py312-ubi9-ci": "opendatahub/odh-workbench-jupyter-trustyai-cpu-py312-ubi9"
+    "odh-workbench-jupyter-tensorflow-rocm-py312-ci": "opendatahub/odh-workbench-jupyter-tensorflow-rocm-py312-ubi9"
   },
   "odh-ai-fifth-demo": {
     "odh-dashboard-operator-ci": "opendatahub/odh-dashboard-operator"
